@@ -7,6 +7,6 @@ Gem::Specification.new do |s|
   s.authors     = ["Erik Skoglund"]
   s.email       = 'erikskoglund88@gmail.com'
   s.files       = ["lib/niji.rb"]
-  s.homepage    = 'todo'
+  s.homepage    = 'https://github.com/eriksk/niji'
   s.license     = 'MIT'
 end
